@@ -1,0 +1,2 @@
+"use strict";require(["./config"],function(){require([])});
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOlsicmVxdWlyZSJdLCJtYXBwaW5ncyI6IkFBQUEsWUFFQUEsVUFBUyxZQUFhLFdBQ3BCQSIsImZpbGUiOiJtYWluLmpzIiwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2Ugc3RyaWN0XCI7XG5cbnJlcXVpcmUoWycuL2NvbmZpZyddLCBmdW5jdGlvbiAoKSB7XG4gIHJlcXVpcmUoW10pO1xufSk7Il19
