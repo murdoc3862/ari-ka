@@ -94,5 +94,7 @@
     "through2": "^2.0.1",
     "vinyl": "^1.1.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gulp-netlify": "^1.1.0"
+  }
 }
