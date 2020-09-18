@@ -5,5 +5,5 @@
 @@include('external/slick.js')
 @@include('external/select2.full.min.js')
 @@include('external/jquery.validate.min.js')
-@@include('external/jquery/jquery.min.js')
+@@include('external/jquery/dist/jquery.min.js')
 
