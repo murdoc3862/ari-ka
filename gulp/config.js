@@ -38,7 +38,7 @@ module.exports = {
         expand: true
     },
     js: {
-        srcJquery: 'src/js/external/jquery/dist/*.*',
+        srcJquery: 'src/js/node_modules/jquery/dist/*.*',
         destJquery: build + 'js/jquery/',
         srcHtml5shiv: 'src/js/node_modules/html5shiv/dist/*.*',
         destHtml5shiv: build + 'js/html5shiv/',
