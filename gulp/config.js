@@ -42,7 +42,7 @@ module.exports = {
         destJquery: build + 'js/jquery/',
         srcHtml5shiv: 'src/js/node_modules/html5shiv/dist/*.*',
         destHtml5shiv: build + 'js/html5shiv/',
-        srcNormalize: 'src/js/node_modules/normalize-css/normalize.css',
+        srcNormalize: 'src/style/normalize.css',
         destNormalize: build + 'css/normalize/',
         src: base + 'js/**/*.js',
         srcExternal: base + 'js/**/external.js',
